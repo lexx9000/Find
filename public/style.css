@@ -1,0 +1,26 @@
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+th,
+td {
+  text-align: left;
+  padding: 8px;
+  border-bottom: 1px solid #ddd;
+}
+th {
+  background-color: #f2f2f2;
+}
+
+.dataTables_length {
+  text-align: left;
+}
+
+.searchValue {
+  cursor: pointer;
+  color: green;
+}
+
+.search-input {
+  margin-right: 10px;
+}
